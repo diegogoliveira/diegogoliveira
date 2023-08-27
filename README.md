@@ -1,5 +1,5 @@
 # Diego Oliveira
-  Sou estudante de Engenharia de software, iniciei meus estudo pela universidade Anhanguera, e por motivos pessoais resovli dar andamento pela universidade UniCesumar.
+  Sou estudante de Engenharia de software, iniciei meus estudo pela universidade Anhanguera, e por motivos pessoais resolvi dar andamento em meus estudos pela universidade UniCesumar.
 Atualmente além da faculdade faço o BootCamp da DIO, estudo a linguagem Python e QA
 
 # Conecte-se comigo
